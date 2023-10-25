@@ -19,7 +19,7 @@
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final do curso em funcionamento](https://alura-book-array-nt.vercel.app/).
+[Veja o projeto final do curso em funcionamento](https://organo-nt.vercel.app/).
 
 ## 📷FOTOS DO PROJETO
 <div align="center">
